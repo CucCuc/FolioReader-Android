@@ -1,0 +1,38 @@
+<resources>
+    <string name="minutes_left">%1$d phút ·&#160;</string>
+    <string name="minute_left">%1$d phút ·&#160;</string>
+    <string name="less_than_minute">Ít hơn một phút ·&#160;</string>
+
+    <string name="copied">Đã sao chép</string>
+    <string name="send_to">Gửi đến</string>
+
+    <string name="copy">Sao chép</string>
+    <string name="share">Chia sẻ</string>
+    <string name="define">Định nghĩa</string>
+
+    <string name="pages_left">%1$d các trang bên trái</string>
+    <string name="page_left">%1$d trang bên trái</string>
+    <string name="titlesMeta">&lt;tr&gt;&lt;td&gt;Tiêu đề:&lt;/td&gt;</string>
+    <string name="authorsMeta">&lt;tr&gt;&lt;td&gt;Tác giả:&lt;/td&gt;</string>
+    <string name="contributorsMeta">&lt;tr&gt;&lt;td&gt;Cộng tác viên:&lt;/td&gt;</string>
+    <string name="languageMeta">&lt;tr&gt;&lt;td&gt;Ngôn ngữ:&lt;/td&gt;&lt;td&gt;</string>
+    <string name="publishersMeta">&lt;tr&gt;&lt;td&gt;Nhà xuất bản:&lt;/td&gt;</string>
+    <string name="typesMeta">&lt;tr&gt;&lt;td&gt;Thể loại:&lt;/td&gt;</string>
+    <string name="descriptionsMeta">&lt;tr&gt;&lt;td&gt;Mô tả:&lt;/td&gt;</string>
+    <string name="tocReference">&lt;tr&gt;&lt;td&gt;Mục lục:&lt;/td&gt;</string>
+    <string name="OK">Đồng ý</string>
+    <string name="Cancel">Hủy bỏ</string>
+    <string name="loading">Đang tải</string>
+    <string name="please_wait">Vui lòng đợi...</string>
+    <string name="please_wait_till_audio_is_parsed">vui lòng đợi cho đến khi âm thanh được phân tích xong, Thử lại sau một thời gian</string>
+
+    <string name="edit_notes">Lưu ghi chú của bạn</string>
+    <string name="save_note">Lưu ghi chú</string>
+    <string name="please_enter_note">Vui lòng nhập ghi chú</string>
+    <string name="contents">Mục lục</string>
+
+    <string name="dictionary">Từ điển</string>
+    <string name="cannot_access_epub_message">Không thể mở epub, bạn cần cấp quyền truy cập bộ nhớ!</string>
+    <string name="direction_horizontal">Hướng ngang</string>
+    <string name="direction_vertical">Hướng dọc</string>
+</resources>
